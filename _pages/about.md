@@ -31,7 +31,7 @@ I am always looking forward to interacting and collaborating with peers who shar
 
 * Sep. 2015 - Sep. 2017
 
-  Micro-speaker Engineering, AAC Technologies Co., Changzhou, China.
+  Micro-speaker Engineer, AAC Technologies Co., Changzhou, China.
 
 # Education
 
