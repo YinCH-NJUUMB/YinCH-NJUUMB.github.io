@@ -14,7 +14,7 @@ I received my Ph.D. in acoustics from [Nanjing University](https://www.nju.edu.c
 
 My research interests include **ultrasound imaging**, **thermal strain imaging**, **elastography**, **motion estimation**, **vascular ultrasound**, **signal processing** and **machine learning**.
 
-I am always looking forward to interacting and collaborating with peers who share the similar research interests, contact me via <chyin@nuist.edu.cn> or [WeChat](...\images\wechat.jpg) if you are interested. In my free time, you can find me at Steam or at the NJU Gym.
+I am always looking forward to interacting and collaborating with peers who share the similar research interests, contact me via <chyin@nuist.edu.cn> or [WeChat](...\images\wechat.jpg) if you are interested. In my free time, you can find me on Steam or at the NJU Gym.
 
 # Employment
 >July. 2024 - Now
