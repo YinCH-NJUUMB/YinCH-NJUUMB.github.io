@@ -17,39 +17,39 @@ My research interests include **ultrasound imaging**, **thermal strain imaging**
 I am always looking forward to interacting and collaborating with peers who share the similar research interests, contact me via <chyin@nuist.edu.cn> or [WeChat](...\images\wechat.jpg) if you are interested. In my free time, you can find me on Steam or at the NJU Gym.
 
 # Employment
->July. 2024 - Now
+* July. 2024 - Now
 
-Associate Professor, School of Electronic & Information Engineering, Nanjing University of Information Science and Technology
+  Associate Professor, School of Electronic & Information Engineering, Nanjing University of Information Science and Technology
 
->Mar. 2021 - July. 2021
+* Mar. 2021 - July. 2021
 
-Teaching Assistant, Digital Signal Process of [Prof. Xiasheng Guo](https://physics.nju.edu.cn/sz/jcrc/zzbqnbjrc/20220408/i220430.html)
+  Teaching Assistant, Digital Signal Process of [Prof. Xiasheng Guo](https://physics.nju.edu.cn/sz/jcrc/zzbqnbjrc/20220408/i220430.html)
 
->Apr. 2018 - Sep. 2018
+* Apr. 2018 - Sep. 2018
 
-Software Engineering Intern, Nanjing Khons Medical Technology Co.
+  Software Engineering Intern, Nanjing Khons Medical Technology Co.
 
->Sep. 2015 - Sep. 2017
+* Sep. 2015 - Sep. 2017
 
-Micro-speaker Engineering, AAC Technologies Co., Changzhou, China.
+  Micro-speaker Engineering, AAC Technologies Co., Changzhou, China.
 
 # Education
 
->Sep. 2018 - Jun. 2024
+* Sep. 2018 - Jun. 2024
 
-Philosophic Doctor of Science in Acoustics
+  Philosophic Doctor of Science in Acoustics
 
-Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
+  Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
 
-Supervisor: Prof. Xiasheng Guo
+  Supervisor: Prof. Xiasheng Guo
 
-Thesis title: In *vivo* Thermometry based on Ultrasonic Thermal Strain Imaging
+  Thesis title: In *vivo* Thermometry based on Ultrasonic Thermal Strain Imaging
 
->Sep. 2011 - Jun. 2015
+* Sep. 2011 - Jun. 2015
 
-Bachelor of Science in Acoustics
+  Bachelor of Science in Acoustics
 
-Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
+  Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
 
 # Publication
 [1] **Yin C**, Su H, Xie Y, et al. Estimating *in vivo* Power Deposition Density in Thermotherapies based on Ultrasound Thermal Strain Imaging[J]. J. Acoust. Soc. Am., 2024. (Accepted)
