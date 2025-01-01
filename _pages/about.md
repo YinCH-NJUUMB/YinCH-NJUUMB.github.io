@@ -14,10 +14,47 @@ I received my Ph.D. in acoustics from [Nanjing University](https://www.nju.edu.c
 
 My research interests include **ultrasound imaging**, **thermal strain imaging**, **elastography**, **motion estimation**, **vascular ultrasound**, **signal processing** and **machine learning**.
 
-I am always looking forward to interacting and collaborating with peers who share the similar research interests, please email me at <chyin@nuist.edu.cn> if you are interested. In my free time, you can find me at Steam or at the NJU Gym.
+I am always looking forward to interacting and collaborating with peers who share the similar research interests, contact me via <chyin@nuist.edu.cn> or [WeChat](...\images\wechat.jpg) if you are interested. In my free time, you can find me at Steam or at the NJU Gym.
 
 # Employment
-======
+>July. 2024 - Now
+
+Associate Professor, School of Electronic & Information Engineering, Nanjing University of Information Science and Technology
+
+>Mar. 2021 - July. 2021
+
+Teaching Assistant, Digital Signal Process of [Prof. Xiasheng Guo](https://physics.nju.edu.cn/sz/jcrc/zzbqnbjrc/20220408/i220430.html)
+
+>Apr. 2018 - Sep. 2018
+
+Software Engineering Intern, Nanjing Khons Medical Technology Co.
+
+>Sep. 2015 - Sep. 2017
+
+Micro-speaker Engineering, AAC Technologies Co., Changzhou, China.
+
+# Education
+
+>Sep. 2018 - Jun. 2024
+
+Philosophic Doctor of Science in Acoustics
+
+Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
+
+Supervisor: Prof. Xiasheng Guo
+
+Thesis title: In *vivo* Thermometry based on Ultrasonic Thermal Strain Imaging
+
+>Sep. 2011 - Jun. 2015
+
+Bachelor of Science in Acoustics
+
+Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
+
+# Publication
+
+
+
 
 
 Getting started
