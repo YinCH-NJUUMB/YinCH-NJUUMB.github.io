@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Hello!I am an assistant professor at Nanjing University of Information Science & Technology (NUIST)  interested in ultrasound imaging and fuctional imaging. I work at the IC school in NUIST and the Ultrasound in Medicine & Biology Group of Nanjing University.
-
-In my personal life, I enjoy music, swimming, some technical work
+I am an assistant professor at Nanjing University of Information Science & Technology (NUIST) interested in ultrasound imaging and fuctional imaging. I received my Ph.D. degree in acoustics from Nanjing University in 2024. I am now working in the School of Integrated Circuits at NUIST and the Ultrasound in Medicine & Biology Group at Nanjing University.
+My research interests include ultrasound beamforming, thermal strain imaging, elastography, ultrasound thermometry, and .
+In my personal life, I enjoy music, swimming, video games and some programming works.
 
 A data-driven personal website
 ======
