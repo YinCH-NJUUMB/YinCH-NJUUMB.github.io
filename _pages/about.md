@@ -19,7 +19,7 @@ I am always looking forward to interacting and collaborating with peers who shar
 # Employment
 * July. 2024 - Now
 
-  Associate Professor, School of Electronic & Information Engineering, Nanjing University of Information Science and Technology
+  Associate Professor, School of Integrated Circuits, Nanjing University of Information Science and Technology
 
 * Mar. 2021 - July. 2021
 
