@@ -52,19 +52,20 @@ Bachelor of Science in Acoustics
 Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
 
 # Publication
-[1] **Yin C**, Su H, Xie Y, et al. Estimating in vivo Power Deposition Density in Thermotherapies based on Ultrasound Thermal Strain Imaging[J]. J. Acoust. Soc. Am., 2024. (Accepted)
+[1] **Yin C**, Su H, Xie Y, et al. Estimating *in vivo* Power Deposition Density in Thermotherapies based on Ultrasound Thermal Strain Imaging[J]. J. Acoust. Soc. Am., 2024. (Accepted)
 
-[2] Chen X, Dong F, **Yin C**, et al. Ultrasonic Imaging Based on Pulsed Airy Beams[J]. IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 2023, 70(9): 1146-1156.
+[2] Chen X, Dong F, **Yin C**, et al. [Ultrasonic Imaging Based on Pulsed Airy Beams](https://ieeexplore.ieee.org/document/10193783)[J]. IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 2023, 70(9): 1146-1156.
 
-[3] **Yin C**, Dong F, Su H, et al. In vivo Multithread Ultrasound Thermal Strain Imaging[J]. IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 2023, 70(8): 843-853.
+[3] **Yin C**, Dong F, Su H, et al. [*In vivo* Multithread Ultrasound Thermal Strain Imaging](https://ieeexplore.ieee.org/document/10168140)[J]. IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 2023, 70(8): 843-853.
 
-[4] Jiang L, Xue H, **Yin C**, et al. Thermal ablation induced by low-intensity ultrasound for pulmonary vein isolation[J]. Appl. Acoust., 2022, 201(11): 109104.
+[4] Jiang L, Xue H, **Yin C**, et al. [Thermal ablation induced by low-intensity ultrasound for pulmonary vein isolation](https://www.sciencedirect.com/science/article/abs/pii/S0003682X22004789)[J]. Appl. Acoust., 2022, 201(11): 109104.
 
-[5] **Yin C**, Wang G, Xie Y, et al. Separated Respiratory Phases for in vivo Ultrasonic Thermal Strain Imaging[J]. IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 2022, 69(4): 1219-1229.
+[5] **Yin C**, Wang G, Xie Y, et al. [Separated Respiratory Phases for *in vivo* Ultrasonic Thermal Strain Imaging](https://ieeexplore.ieee.org/document/9705591)[J]. IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 2022, 69(4): 1219-1229.
 
-[6] **Yin C**, Wang G, Yang K, et al. Thermal strain imaging in vivo using interpolatedIQ-images[J]. Ultrasonics, 2021, 110: 106292.
+[6] **Yin C**, Wang G, Yang K, et al. [Thermal strain imaging *in vivo* using interpolatedIQ-images](https://www.sciencedirect.com/science/article/abs/pii/S0041624X20302304)[J]. Ultrasonics, 2021, 110: 106292.
 
-[7] Ni Z, **Yin C**, Xu G, et al. Modelling of SAW-PDMS acoustofluidics: physical fields and particle motions influenced by different descriptions of the PDMS domain[J]. Lab Chip, 2019, 19(16): 2728-2740.
+[7] Ni Z, **Yin C**, Xu G, et al. [Modelling of SAW-PDMS acoustofluidics: physical fields and particle motions influenced by different descriptions of the PDMS domain](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00431a)[J]. Lab Chip, 2019, 19(16): 2728-2740.
 
-[8] Fan P, **Yin C**, Xue H, et al. In vivo evaluation of two-dimensional temperature variation in perirenal fat of pigs with B-mode ultrasound[J]. J. Appl. Phys., 2019, 126(8): 084902.
+[8] Fan P, **Yin C**, Xue H, et al. [*In vivo* evaluation of two-dimensional temperature variation in perirenal fat of pigs with B-mode ultrasound](https://pubs.aip.org/aip/jap/article-abstract/126/8/084902/366492/In-vivo-evaluation-of-two-dimensional-temperature?redirectedFrom=fulltext)[J]. J. Appl. Phys., 2019, 126(8): 084902.
 
+# Collaborators
