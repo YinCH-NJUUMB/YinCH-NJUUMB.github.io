@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chuhao Yin's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "hahaha.png"
   name             : "Chuhao Yin"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in acoustics, hesitation is defeat."
+  bio              : "Ph.D. in acoustics, video game player."
   location         : "Nanjing, China"
   employer         : "Nanjing University of Information Science & Technology"
   uri              : # URL
@@ -279,7 +279,7 @@ defaults:
      type: talks
    values:
      layout: talk
-     author_profile: false
+     author_profile: true
      share: true
 
 
