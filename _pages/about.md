@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-I am Chuhao Yin, a micro-speaker engineer and programming enthusiast turned researcher in ultrasound and acoustics. Since July 2024, I serve as an Associate Professor at the [School of Integrated Circuits](https://ic.nuist.edu.cn/)(SOIC) of [Nanjing University of Information Science & Technology](https://nuist.edu.cn/) (NUIST).
+I am Chuhao Yin, a micro-speaker engineer and programming enthusiast turned researcher in ultrasound and acoustics. Since July 2024, I serve as an Associate Professor at the [School of Integrated Circuits](https://ic.nuist.edu.cn/) of [Nanjing University of Information Science & Technology](https://nuist.edu.cn/) (NUIST).
 
-I received my Ph.D. in acoustics from [Nanjing University](https://www.nju.edu.cn/) in 2024, and now working in the School of Integrated Circuits at NUIST and the Ultrasound in Medicine & Biology Group at Nanjing University. My research interests include ultrasound imaging, thermal strain imaging, elastography, motion estimation, vascular ultrasound, signal processing and machine learning.
+I received my Ph.D. in acoustics from [Nanjing University](https://www.nju.edu.cn/) in 2024, and currently hold a joint appointment between NUIST's School of Integrated Circuits and the Ultrasound in Medicine & Biology Group at Nanjing University. 
+
+My research interests include ultrasound imaging, thermal strain imaging, elastography, motion estimation, vascular ultrasound, signal processing and machine learning.
 
 In my personal life, I enjoy music, swimming, video games and some programming works.
 
