@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chuhao Yin's Personal Homepage"
+title                    : "Chuhao Yin's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -63,7 +63,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "潇洒的王二"
+  steam            : #"潇洒的王二"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
