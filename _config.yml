@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hahaha.png"
+  avatar           : "IMG_7553.png"
   name             : "Chuhao Yin"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in acoustics, video game player."
