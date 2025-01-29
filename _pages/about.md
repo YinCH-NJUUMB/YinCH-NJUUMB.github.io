@@ -52,7 +52,7 @@ I am always looking forward to interacting and collaborating with peers who shar
   Key Laboratory of Modern Acoustics, Institute of Acoustics, School of Physics, Nanjing University
 
 # Publication
-[1] **Yin C**, Su H, Xie Y, et al. Estimating *in vivo* Power Deposition Density in Thermotherapies based on Ultrasound Thermal Strain Imaging[J]. J. Acoust. Soc. Am., 2024. (Accepted)
+[1] **Yin C**, Su H, Xie Y, et al. [Estimating *in vivo* Power Deposition Density in Thermotherapies based on Ultrasound Thermal Strain Imaging](https://doi.org/10.1121/10.0034880)[J]. J. Acoust. Soc. Am., 2025, 157(1): 606–617.
 
 [2] Chen X, Dong F, **Yin C**, et al. [Ultrasonic Imaging Based on Pulsed Airy Beams](https://ieeexplore.ieee.org/document/10193783)[J]. IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 2023, 70(9): 1146-1156.
 
